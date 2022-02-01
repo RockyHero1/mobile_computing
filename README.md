@@ -1,3 +1,1 @@
-# mobile_computing
-
-##Android Based Projects
+# mobile_computing | Android Based Projects
