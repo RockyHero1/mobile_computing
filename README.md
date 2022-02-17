@@ -1,3 +1,3 @@
-# mobile_computing | Android Based Projects
+# Twint Scrapping | Capstone Projects
 
-This is the very first android project on git.
+
